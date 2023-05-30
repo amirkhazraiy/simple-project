@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "my new website",
+      "body": "lorem ipsum ...",
+      "author": "amir",
+      "id": 1
+    },
+    {
+      "title": "new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus est expedita ipsam itaque neque optio. Eligendi eveniet fuga impedit, ipsa natus, pariatur possimus quam repellendus sequi tempora totam voluptatibus.",
+      "author": "mario",
+      "id": 69
+    },
+    {
+      "title": "new test",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus est expedita ipsam itaque neque optio. Eligendi eveniet fuga impedit, ipsa natus, pariatur possimus quam repellendus sequi tempora totam voluptatibus.",
+      "author": "jak",
+      "id": 70
+    }
+  ]
+}
